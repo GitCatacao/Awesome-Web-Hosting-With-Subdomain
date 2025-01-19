@@ -5,8 +5,8 @@ The list will be updated when new ones are found.
 
 
 
-* [https://www.alwaysdata.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads, and free subdomain
-* [https://freehostingnoads.net/](https://www.awardspace.com/) Free hosting without forced ads. Absolutely free website hosting comes with PHP, MySQL, Email, Free Domain Hosting
+* [https://www.awardspace.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads, and free subdomain
+* [https://freehostingnoads.net/](https://freehostingnoads.net/) Free hosting without forced ads. Absolutely free website hosting comes with PHP, MySQL, Email, Free Domain Hosting
 * [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth
 * [https://neocities.org/](https://neocities.org/) Create your own free website. Unlimited creativity, zero ads.
 * [https://surge.sh/](https://surge.sh/) Static web publishing for Front-End Developers. Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.

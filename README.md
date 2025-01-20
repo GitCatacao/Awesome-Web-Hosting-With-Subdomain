@@ -18,8 +18,6 @@ The list will be updated when new ones are found.
 
 
 <hr>
-<hr>
-<hr>
 
 
 ## If you have your own domain and want free hosting you can use instead

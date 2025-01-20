@@ -7,7 +7,6 @@ The list will be updated when new ones are found.
 
 * [https://www.awardspace.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads, and free subdomain
 * [https://freehostingnoads.net/](https://freehostingnoads.net/) Free hosting without forced ads. Absolutely free website hosting comes with PHP, MySQL, Email, Free Domain Hosting
-* [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth
 * [https://neocities.org/](https://neocities.org/) Create your own free website. Unlimited creativity, zero ads.
 * [https://surge.sh/](https://surge.sh/) Static web publishing for Front-End Developers. Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
 * [https://pages.github.com/](https://pages.github.com/) Use your github to create your site. It's very simple. Use a repository with your username. Read the documentation to understand how to use it.
@@ -17,7 +16,11 @@ The list will be updated when new ones are found.
 
 
 
+
+
+## If you have your own domain and want free hosting you can use instead
+* [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth
+* [https://www.freehosting.com/](https://www.freehosting.com/) Absolutely free web hosting with all features and tools you need to create a website. Free hosting is valid for the entire lifetime of your domain (1 site hosting, 10 GB disk space, Unmetered bandwidth, 1 E-mail account, 1 MySQL database)
+
 ### Good project and good work 👻🫡👋🧟‍♂️☠️
-
-
 #### For more information visit the github site 👨‍💻 https://gitcatacao.github.io/

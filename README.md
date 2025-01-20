@@ -5,8 +5,8 @@ The list will be updated when new ones are found.
 
 ## 🌎 Free hosting for websites with subdomains offered for free
 
-* [https://www.awardspace.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads, and free subdomain
-* [https://freehostingnoads.net/](https://freehostingnoads.net/) Free hosting without forced ads. Absolutely free website hosting comes with PHP, MySQL, Email, Free Domain Hosting
+* [https://www.awardspace.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads and free subdomain
+* [https://freehostingnoads.net/](https://freehostingnoads.net/) Free hosting without forced ads. Absolutely free website hosting comes with 1 Domain Hosting, 1GB Disk Space, 5GB Traffic, PHP, Perl, MySQL, FTP
 * [https://neocities.org/](https://neocities.org/) Create your own free website. Unlimited creativity, zero ads. PHP & MySQL. Subdomain is in the form site.neocities.org 
 * [https://www.infinityfree.com/](https://www.infinityfree.com/) Free Website Hosting PHP & MySQL | No ads on your site
 * [https://surge.sh/](https://surge.sh/) Static web publishing for Front-End Developers. Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line. Basic SSL. Subdomain is in the form my-project.surge.sh

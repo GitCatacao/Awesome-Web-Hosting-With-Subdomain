@@ -12,7 +12,7 @@ The list will be updated when new ones are found.
 * [https://pages.github.com/](https://pages.github.com/) Use your github to create your site. It's very simple. Use a repository with your username. Read the documentation to understand how to use it.
 * [https://www.infinityfree.com/](https://www.infinityfree.com/) Free Website Hosting PHP & MySQL | No ads on your site
 
-### Services that offer only web hosting without any subdomains have not been included.
+#### Services that offer only web hosting without any subdomains have not been included.
 
 
 

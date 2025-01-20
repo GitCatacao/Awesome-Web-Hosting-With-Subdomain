@@ -1,4 +1,4 @@
-# Awesome-Web-Hosting-With-Subdomain
+# 🕸️ Awesome-Web-Hosting-With-Subdomain
 This is curated list of **free hosting providers** that offer a **free subdomain** (third-level domain eg. `subdomain.domain.com`) for developers to effortlessly deploy and manage web projects on third-party servers.
 
 The list will be updated when new ones are found.

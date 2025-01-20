@@ -20,9 +20,12 @@ The list will be updated when new ones are found.
 <hr>
 
 
+
+
+
 ## 🌍 If you have your own domain and want free hosting you can use instead
-* [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth
 * [https://www.freehosting.com/](https://www.freehosting.com/) Absolutely free web hosting with all features and tools you need to create a website. Free hosting is valid for the entire lifetime of your domain (1 site hosting, 10 GB disk space, Unmetered bandwidth, 1 E-mail account, 1 MySQL database)
+* [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth (5 Hosted Domain, 250MB Disk Space, 6GB Monthly Traffic)
 
 ### Good project and good work 👻🫡👋🧟‍♂️☠️
 #### For more information visit the github site 👨‍💻 https://gitcatacao.github.io/

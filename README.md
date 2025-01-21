@@ -28,4 +28,4 @@ The list will be updated when new ones are found.
 * [https://www.freehostia.com/](https://www.freehostia.com/) The ads-free hosting paradise on Earth (*5 Hosted Domain, 250MB Disk Space, 6GB Monthly Traffic*)
 
 ### Good project and good work 👻🫡👋🧟‍♂️☠️
-#### For more information visit the github site 👨‍💻 https://gitcatacao.github.io/
+#### For more information visit the GitHub website 👨‍💻 https://gitcatacao.github.io/

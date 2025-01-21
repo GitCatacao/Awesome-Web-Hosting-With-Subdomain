@@ -3,7 +3,7 @@ This is curated list of **free hosting providers** that offer a **<ins>free subd
 
 The list will be updated when new ones are found.
 
-## 🌎 Free hosting for websites with subdomains offered for free
+## 🌎 Free hosting for websites with <ins>subdomains</ins> offered for free
 
 * [https://www.awardspace.com/](https://www.awardspace.com/) Free hosting with PHP & MySQL, no ads and free subdomain
 * [https://freehostingnoads.net/](https://freehostingnoads.net/) Free hosting without forced ads. Absolutely free website hosting comes with 1 Domain Hosting, 1GB Disk Space, 5GB Traffic, PHP, Perl, MySQL, FTP

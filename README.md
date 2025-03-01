@@ -11,6 +11,7 @@ The list will be updated when new ones are found.
 * [https://neocities.org/](https://neocities.org/) Create your own free website. Unlimited creativity, zero ads. PHP & MySQL. Subdomain is in the form site.neocities.org 
 * [https://www.infinityfree.com/](https://www.infinityfree.com/) Free Website Hosting PHP & MySQL | No ads on your site (5 GB Disk Space, 400 MySQL Databases, Free SSL Certificate, Unlimited Bandwidth, Full .htaccess Support)
 * [https://surge.sh/](https://surge.sh/) Static web publishing for Front-End Developers. Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line. Basic SSL. Subdomain is in the form my-project.surge.sh
+* [x10hosting](https://x10hosting.com/) Free Web hosting Web Hosting For The Masses. PHP, Website Builder, WordPress, SSL, FTP, MySql & PHPMyAdmin, 512MB SSD, unmetered bandwidth 
 * [https://pages.github.com/](https://pages.github.com/) Use your github to create your site. It's very simple. Use a repository with your username. Read the documentation to understand how to use it.
 
 #### Services that offer only web hosting without any subdomains have not been included.

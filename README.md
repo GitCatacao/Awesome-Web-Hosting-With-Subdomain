@@ -36,6 +36,7 @@ The list will be updated when new ones are found.
 
 
 <hr>
+
 ## 🍌 If you have your own hosting and you want to use a free dns
 * [https://freedomain.one](https://freedomain.one) Easily Update Dynamic IP Addresses Using cURL, 100% Free SSL Certificates that support wildcard
 

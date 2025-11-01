@@ -5,7 +5,7 @@ The list will be updated when new ones are found.
 
 ## 🌎 Free hosting for websites with <ins>subdomains</ins> offered for free
 
-* [https://aeonfree.com](https://aeonfree.com) Really nice service with PHP and MySQL, no ads and free subdomain. Free SSL certificates ready in a few hours.
+* [https://aeonfree.com](https://aeonfree.com) Really nice service with PHP and MySQL, no ads and free subdomain. Free SSL certificates ready in a few hours. JavaScript needed.
 * [https://www.awardspace.com](https://www.awardspace.com) Free hosting with PHP & MySQL, no ads and free subdomain (4 Websites, CMS Installer, 100% Ad-Free). ~~Free SSL Let's Encrypt.~~ SSL is paid.
 * [https://www.infinityfree.com](https://www.infinityfree.com) Free Website Hosting PHP & MySQL | No ads on your site (5 GB Disk Space, 400 MySQL Databases, Free SSL Certificate, Unlimited Bandwidth, Full .htaccess Support). JavaScript needed.
 * [https://freehostingnoads.net](https://freehostingnoads.net) Free hosting without forced ads. Absolutely free website (Hosting comes with 1 Domain Hosting, 1GB Disk Space, 5GB Traffic, PHP, Perl, MySQL, FTP). SSL is paid.
